@@ -1,0 +1,68 @@
+header{
+    display: flex;
+    background-color: rgb(18, 5, 71);
+    margin-top: -22px;
+    margin-left: -10px;
+    margin-right: -10px;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+header h1{
+    color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    font-size: 30px;
+
+}
+header ul{
+    display: flex;
+    justify-content: end;
+    
+}
+ul li{
+    list-style: none;
+    
+    
+}
+ul li a{
+    text-decoration: none;
+    color: gainsboro;
+    padding: 20px;
+    justify-content: space-between;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+.dd{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+main{
+    background-color:rgb(18, 5, 71) ;
+}
+main h2{
+    color: lightseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{ 
+    padding: 7px 18px;
+    background-color: lightseagreen;
+    border: none;
+    border-radius: 5px;
+    margin-left: 170px;
+    cursor: pointer;
+}
+
+
+
